@@ -164,6 +164,6 @@ The files in `data/` are named `N_<N>_T_<T>_Nt_<Nt>_ND_<Ns>_M_<samples>.json`. T
 
 D. Vallejo Miranda, *Resolución del problema 3-SAT mediante computación cuántica*, Bachelor's thesis in Physics, Universidad de Zaragoza, 2025–2026 (in Spanish). Supervisors: José Vicente García Esteve and Alberto Aleta Casas.
 
-[Thesis in the University of Zaragoza repository](PASTE_UNIVERSITY_REPOSITORY_LINK_HERE)
+[Thesis in the University of Zaragoza repository](https://zaguan.unizar.es/record/180602)
 
 The thesis contains the derivations, the full bibliography and the annex with the core code.
