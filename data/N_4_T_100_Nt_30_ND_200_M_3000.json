@@ -1,0 +1,168 @@
+{
+    "energia": {
+        "2.0": {
+            "energia_cuadrado_total": 0.00014413661431197887,
+            "energia_total": 0.0003658170833333341,
+            "total": 3000
+        },
+        "2.25": {
+            "energia_cuadrado_total": 0.05010763003802474,
+            "energia_total": 0.0006068666666666678,
+            "total": 3000
+        },
+        "2.5": {
+            "energia_cuadrado_total": 0.1024031781591188,
+            "energia_total": 0.000960420666666667,
+            "total": 3000
+        },
+        "2.75": {
+            "energia_cuadrado_total": 0.4593051557448126,
+            "energia_total": 0.0026236142424242476,
+            "total": 3000
+        },
+        "3.0": {
+            "energia_cuadrado_total": 0.9578406300762966,
+            "energia_total": 0.005171338888888881,
+            "total": 3000
+        },
+        "3.25": {
+            "energia_cuadrado_total": 1.6188577173648209,
+            "energia_total": 0.009225296410256378,
+            "total": 3000
+        },
+        "3.5": {
+            "energia_cuadrado_total": 2.224744391653316,
+            "energia_total": 0.014229346190476187,
+            "total": 3000
+        },
+        "3.75": {
+            "energia_cuadrado_total": 2.6294451908487804,
+            "energia_total": 0.019879160666666625,
+            "total": 3000
+        },
+        "4.0": {
+            "energia_cuadrado_total": 2.727622361656634,
+            "energia_total": 0.02478084270833335,
+            "total": 3000
+        },
+        "4.25": {
+            "energia_cuadrado_total": 2.604037188230832,
+            "energia_total": 0.030505513137254883,
+            "total": 3000
+        },
+        "4.5": {
+            "energia_cuadrado_total": 2.31639615098203,
+            "energia_total": 0.035374727037036965,
+            "total": 3000
+        },
+        "4.75": {
+            "energia_cuadrado_total": 1.9702987251520845,
+            "energia_total": 0.03919709578947363,
+            "total": 3000
+        },
+        "5.0": {
+            "energia_cuadrado_total": 1.6862243212597463,
+            "energia_total": 0.04347305916666655,
+            "total": 3000
+        },
+        "5.25": {
+            "energia_cuadrado_total": 1.6044725224404872,
+            "energia_total": 0.048046043333333455,
+            "total": 3000
+        },
+        "5.5": {
+            "energia_cuadrado_total": 1.678203128067767,
+            "energia_total": 0.052208545454545396,
+            "total": 3000
+        },
+        "6.0": {
+            "energia_cuadrado_total": 1.639208151486901,
+            "energia_total": 0.06263597736111132,
+            "total": 3000
+        },
+        "6.5": {
+            "energia_cuadrado_total": 1.102786558344935,
+            "energia_total": 0.07116595102564109,
+            "total": 3000
+        },
+        "7.0": {
+            "energia_cuadrado_total": 0.954223396397058,
+            "energia_total": 0.08128201523809515,
+            "total": 3000
+        }
+    },
+    "unsat_por_alpha": {
+        "2.0": {
+            "total": 3000,
+            "unsat": 0
+        },
+        "2.25": {
+            "total": 3000,
+            "unsat": 4
+        },
+        "2.5": {
+            "total": 3000,
+            "unsat": 10
+        },
+        "2.75": {
+            "total": 3000,
+            "unsat": 56
+        },
+        "3.0": {
+            "total": 3000,
+            "unsat": 145
+        },
+        "3.25": {
+            "total": 3000,
+            "unsat": 308
+        },
+        "3.5": {
+            "total": 3000,
+            "unsat": 540
+        },
+        "3.75": {
+            "total": 3000,
+            "unsat": 834
+        },
+        "4.0": {
+            "total": 3000,
+            "unsat": 1130
+        },
+        "4.25": {
+            "total": 3000,
+            "unsat": 1494
+        },
+        "4.5": {
+            "total": 3000,
+            "unsat": 1824
+        },
+        "4.75": {
+            "total": 3000,
+            "unsat": 2104
+        },
+        "5.0": {
+            "total": 3000,
+            "unsat": 2381
+        },
+        "5.25": {
+            "total": 3000,
+            "unsat": 2600
+        },
+        "5.5": {
+            "total": 3000,
+            "unsat": 2733
+        },
+        "6.0": {
+            "total": 3000,
+            "unsat": 2912
+        },
+        "6.5": {
+            "total": 3000,
+            "unsat": 2989
+        },
+        "7.0": {
+            "total": 3000,
+            "unsat": 2999
+        }
+    }
+}

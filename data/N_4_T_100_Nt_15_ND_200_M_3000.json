@@ -1,0 +1,142 @@
+{
+    "unsat_por_alpha": {
+        "2.0": {
+            "total": 3000,
+            "unsat": 0
+        },
+        "2.25": {
+            "total": 3000,
+            "unsat": 3
+        },
+        "2.5": {
+            "total": 3000,
+            "unsat": 11
+        },
+        "2.75": {
+            "total": 3000,
+            "unsat": 50
+        },
+        "3.0": {
+            "total": 3000,
+            "unsat": 152
+        },
+        "3.25": {
+            "total": 3000,
+            "unsat": 284
+        },
+        "3.5": {
+            "total": 3000,
+            "unsat": 537
+        },
+        "3.75": {
+            "total": 3000,
+            "unsat": 813
+        },
+        "4.0": {
+            "total": 3000,
+            "unsat": 1154
+        },
+        "4.25": {
+            "total": 3000,
+            "unsat": 1484
+        },
+        "4.5": {
+            "total": 3000,
+            "unsat": 1825
+        },
+        "4.75": {
+            "total": 3000,
+            "unsat": 2162
+        },
+        "5.0": {
+            "total": 3000,
+            "unsat": 2359
+        },
+        "5.25": {
+            "total": 3000,
+            "unsat": 2602
+        },
+        "5.5": {
+            "total": 3000,
+            "unsat": 2714
+        },
+        "6.0": {
+            "total": 3000,
+            "unsat": 2898
+        },
+        "7.0": {
+            "total": 3000,
+            "unsat": 2998
+        }
+    },
+    "estadisticas_N_M": {
+        "4,8": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,9": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,10": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,11": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,12": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,13": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,14": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,15": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,16": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,17": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,18": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,19": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,20": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,21": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,22": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,24": {
+            "total": 3000,
+            "correctos": 0
+        },
+        "4,28": {
+            "total": 3000,
+            "correctos": 0
+        }
+    }
+}

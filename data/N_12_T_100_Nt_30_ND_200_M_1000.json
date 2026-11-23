@@ -1,0 +1,426 @@
+{
+    "energia": {
+        "2.0": {
+            "energia_cuadrado_total": 0.00016876569634565976,
+            "energia_total": 0.00037125291666666686,
+            "total": 1000
+        },
+        "2.5": {
+            "energia_cuadrado_total": 0.0016803873211056668,
+            "energia_total": 0.0006698310000000004,
+            "total": 1000
+        },
+        "3.0": {
+            "energia_cuadrado_total": 0.014030742131875315,
+            "energia_total": 0.0018871766666666643,
+            "total": 1000
+        },
+        "3.25": {
+            "energia_cuadrado_total": 0.022183671136536465,
+            "energia_total": 0.00269709205128205,
+            "total": 1000
+        },
+        "3.5": {
+            "energia_cuadrado_total": 0.04355649776833467,
+            "energia_total": 0.004345589523809524,
+            "total": 1000
+        },
+        "3.6667": {
+            "energia_cuadrado_total": 0.049428078144389244,
+            "energia_total": 0.004959744318181817,
+            "total": 1000
+        },
+        "3.75": {
+            "energia_cuadrado_total": 0.05667549591003611,
+            "energia_total": 0.005782914000000005,
+            "total": 1000
+        },
+        "3.8333": {
+            "energia_cuadrado_total": 0.06769895738542689,
+            "energia_total": 0.006582127608695649,
+            "total": 1000
+        },
+        "4.0": {
+            "energia_cuadrado_total": 0.07001415295364152,
+            "energia_total": 0.00758600208333333,
+            "total": 1000
+        },
+        "4.25": {
+            "energia_cuadrado_total": 0.08243299174214906,
+            "energia_total": 0.009007069019607834,
+            "total": 1000
+        },
+        "4.5": {
+            "energia_cuadrado_total": 0.09038415590919013,
+            "energia_total": 0.011197408148148132,
+            "total": 1000
+        },
+        "4.75": {
+            "energia_cuadrado_total": 0.10392751386091438,
+            "energia_total": 0.012933055614035089,
+            "total": 1000
+        },
+        "5.0": {
+            "energia_cuadrado_total": 0.10008393286667426,
+            "energia_total": 0.014802046166666655,
+            "total": 1000
+        },
+        "5.25": {
+            "energia_cuadrado_total": 0.10944811875183245,
+            "energia_total": 0.016221251904761893,
+            "total": 1000
+        },
+        "5.5": {
+            "energia_cuadrado_total": 0.11947433728760869,
+            "energia_total": 0.01834734212121212,
+            "total": 1000
+        },
+        "6.0": {
+            "energia_cuadrado_total": 0.10847487696164074,
+            "energia_total": 0.02142637333333333,
+            "total": 1000
+        },
+        "6.5": {
+            "energia_cuadrado_total": 0.12206968931719668,
+            "energia_total": 0.02463641564102567,
+            "total": 1000
+        },
+        "7.0": {
+            "energia_cuadrado_total": 0.11574560712264073,
+            "energia_total": 0.028307489047619077,
+            "total": 1000
+        }
+    },
+    "estadisticas": {
+        "(12, 24)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 30)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 36)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 39)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 42)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 44)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 45)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 46)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 48)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 51)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 54)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 57)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 60)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 63)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 66)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 72)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 78)": {
+            "correctos": 0,
+            "total": 1000
+        },
+        "(12, 84)": {
+            "correctos": 0,
+            "total": 1000
+        }
+    },
+    "n_eff_por_alpha": {
+        "2.0": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "2.5": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "3.0": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "3.25": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "3.5": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "3.6667": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "3.75": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "3.8333": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "4.0": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "4.25": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "4.5": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "4.75": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "5.0": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "5.25": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "5.5": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "6.0": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "6.5": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        },
+        "7.0": {
+            "n_eff_cuadrado_total": 0.0,
+            "n_eff_total": 0.0,
+            "total": 0
+        }
+    },
+    "n_max_por_alpha": {
+        "2.0": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "2.5": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "3.0": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "3.25": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "3.5": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "3.6667": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "3.75": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "3.8333": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "4.0": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "4.25": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "4.5": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "4.75": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "5.0": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "5.25": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "5.5": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "6.0": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "6.5": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        },
+        "7.0": {
+            "n_max_cuadrado_total": 0.0,
+            "n_max_total": 0.0,
+            "total": 0
+        }
+    },
+    "unsat_por_alpha": {
+        "2.0": {
+            "total": 1000,
+            "unsat": 0
+        },
+        "2.5": {
+            "total": 1000,
+            "unsat": 0
+        },
+        "3.0": {
+            "total": 1000,
+            "unsat": 1
+        },
+        "3.25": {
+            "total": 1000,
+            "unsat": 13
+        },
+        "3.5": {
+            "total": 1000,
+            "unsat": 50
+        },
+        "3.6667": {
+            "total": 1000,
+            "unsat": 72
+        },
+        "3.75": {
+            "total": 1000,
+            "unsat": 93
+        },
+        "3.8333": {
+            "total": 1000,
+            "unsat": 125
+        },
+        "4.0": {
+            "total": 1000,
+            "unsat": 157
+        },
+        "4.25": {
+            "total": 1000,
+            "unsat": 265
+        },
+        "4.5": {
+            "total": 1000,
+            "unsat": 390
+        },
+        "4.75": {
+            "total": 1000,
+            "unsat": 484
+        },
+        "5.0": {
+            "total": 1000,
+            "unsat": 591
+        },
+        "5.25": {
+            "total": 1000,
+            "unsat": 687
+        },
+        "5.5": {
+            "total": 1000,
+            "unsat": 750
+        },
+        "6.0": {
+            "total": 1000,
+            "unsat": 878
+        },
+        "6.5": {
+            "total": 1000,
+            "unsat": 930
+        },
+        "7.0": {
+            "total": 1000,
+            "unsat": 968
+        }
+    }
+}
